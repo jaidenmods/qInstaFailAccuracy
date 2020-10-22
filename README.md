@@ -1,3 +1,3 @@
 qInstaFailAccuracy
 
-Original mod by Shoko84 for PC. Ported by Jaiden and Rugtveit for Quest.
+Original mod by Shoko84 for PC. Ported by Dawn and Rugtveit for Quest.
